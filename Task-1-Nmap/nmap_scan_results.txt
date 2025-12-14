@@ -1,0 +1,5 @@
+1# Nmap
+7.95 scan initiated Thu Dec 11 16:28:08 2025 as: /usr/lib/nmap/nmap
+--privileged -ss -sV -0 -ON nmap_results.txt.173.16.74.129
+2 WARNING: No targets were specified, so 0 hosts scanned.
+3 # Nmap done at Thu Dec 11 16:28:08 2025 - 0 IP addresses (0 hosts scanned in 0.15 seconds
