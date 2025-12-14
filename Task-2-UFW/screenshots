@@ -1,0 +1,18 @@
+Tudo apt install ufw
+ufw is already the newest version (0.36.2-9).
+Summary:
+Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 1337 (aur© kali)-[~]
+sudo ufw enable
+Firewall is active and enabled
+on system
+startup
+-(aur© kali)-[~]
+sudo ufw allow ssh
+Skipping adding existing rule
+Skipping adding existing rule (v6)
+(aur© kali)-[~]
+sudo ufw deny http
+Skipping adding existing rule
+Skipping
+adding
+existing rule (v6)
